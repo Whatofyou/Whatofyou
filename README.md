@@ -1,5 +1,11 @@
 ## Hi, I'm Dafi👋
 Software Engineering Student at BINUS University @Bekasi
+### Programming Languages
+- C
+- Python
+- Java
+- JavaScript
+- HTML, CSS
 ### My Projects
 - [Cafe Finder](https://github.com/Whatofyou/cafe-finder)
 - [BeatBreeze](https://github.com/Whatofyou/beat-breeze)
